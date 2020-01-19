@@ -1,2 +1,4 @@
-# The second Git Lab
-## Second team member: yhzhang1
+# The second Git lab
+## First team member: first name
+## Second team member: second name
+### Die Project: simulates the rolling of a die with a specified number of sides.
